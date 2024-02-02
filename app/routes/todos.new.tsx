@@ -8,7 +8,6 @@ export const meta: MetaFunction = () => {
 };
 
 const test = "test"
-const test = "test"
 
 
 export default function Index() {
