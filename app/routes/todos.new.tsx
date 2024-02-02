@@ -7,8 +7,14 @@ export const meta: MetaFunction = () => {
   ];
 };
 
+const test = "test"
+
+
 export default function Index() {
   return (
-      <h1>Welcome to Remix (SPA Mode)</h1>
+    <div>
+      <h1>TODO新規作成ページ</h1>
+    </div>
   );
 }
+``
